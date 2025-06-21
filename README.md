@@ -1,3 +1,3 @@
 # NeuralNetwork
 
-this neural network is built from using only numpy
+this neural network is built from scratch using only numpy
