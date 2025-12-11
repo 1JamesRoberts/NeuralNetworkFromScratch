@@ -1,7 +1,7 @@
 # NeuralNetwork for classification
 
--This Multi-Layer Perception Neural Network is built from scratch using only `NumPy`.
--It can be used to predict only Multi-Class classification.
+- This Multi-Layer Perception Neural Network is built from scratch using only `NumPy`.
+- It can be used to predict only Multi-Class classification.
 
 # DataSet
 ## MNIST DATASET (from keras)
